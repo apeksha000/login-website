@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(69, 177, 69);
+}
+.bigbox{
+    width: 250px;
+    border:
+     10px none ;
+    background-color:whitesmoke;
+    padding-left: 170px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 200px;
+    margin: 40px auto;
+    height: 350px;
+
+}
+.firstbox{
+    width: 300px;
+    border:
+     40px none ;
+    background-color: rgba(211, 212, 200, 0.74);
+    padding: 30px;
+    margin: 20px auto;
+    color: rgb(109, 106, 106);
+    
+    
+
+}
+.secondbox{
+    width: 300px;
+    height: 10px;
+    top: 50px;
+    border:
+     40px none ;
+    background-color: rgba(211, 212, 200, 0.74);
+    padding: 30px;
+    margin: 20px auto;
+    color:  rgb(109, 106, 106);
+    
+    }
+    .green-box{
+        width: 300px;
+    border:10px none ;
+    background-color: green;
+    padding: 30px;
+    margin: 20px auto;
+    color: white;
+    text-align: center;
+    
+    }
+    p{
+        color: rgba(179, 180, 164, 0.74);
+    }
+   span{
+    color: rgb(8, 117, 8);
+   }
+   .password{
+    color: rgb(109, 106, 106);
+   }
+   .text{
+    color:  rgb(109, 106, 106);
+   }
+   .button{
+    background-color: green ;
+    color: white;
+   }
+   
